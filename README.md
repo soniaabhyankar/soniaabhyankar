@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on building an E-commerce application.
+- 🌱 I’m currently learning Machine Learning.
+- 💬 Ask me about HTML, CSS, JS/React, Firebase
+- 📫 How to reach me: https://soniaabhyankar.com
