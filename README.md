@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on building an E-commerce application.
 - 🌱 I’m currently learning Machine Learning.
-- 💬 Ask me about HTML, CSS, JavaScript, React.js
-- 📫 How to reach me: https://soniaabhyankar.com
+- 💬 Ask me about JavaScript, React.js, Apollo
+- 📫 How to reach me: sonia.abhyankar@gmail.com
