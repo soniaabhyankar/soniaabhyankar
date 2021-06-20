@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on building an E-commerce application.
-- 🌱 I’m currently learning Machine Learning.
+- 🔭 I’m currently looking for Master Thesis opportunities in the field of Machine Learning.
+- 🌱 I’m currently learning Deep Learning.
 - 💬 Ask me about JavaScript, React.js, Apollo
 - 📫 How to reach me: sonia.abhyankar@gmail.com
