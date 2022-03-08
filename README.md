@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently looking for Master Thesis opportunities in the field of Machine Learning.
 - 🌱 I’m currently learning Deep Learning.
-- 💬 Ask me about JavaScript, React.js, Apollo
+- 💬 Ask me about JavaScript, React.js, Apollo, GraphQL
 - 📫 How to reach me: sonia.abhyankar@gmail.com
