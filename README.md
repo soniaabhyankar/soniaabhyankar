@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently looking for Master Thesis opportunities in the field of Machine Learning.
-- 🌱 I’m currently learning Deep Learning.
-- 💬 Ask me about JavaScript, React.js, Apollo, GraphQL
+- 🔭 I’m currently looking for remote Frontend Engineer roles.
+- 🌱 I’m currently learning working on my Master Thesis in CNN-based human activity recognition.
+- 💬 Ask me about JavaScript, React.js, TypeScript, GraphQL, Sass
 - 📫 How to reach me: sonia.abhyankar@gmail.com
