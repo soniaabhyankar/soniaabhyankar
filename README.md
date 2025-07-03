@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently looking for Frontend Engineer roles.
-- 🌱 I’m currently learning Android App Development with Kotlin.
-- 💬 Ask me about JavaScript, React.js, TypeScript, GraphQL, Sass
+
+I pivoted my career to Branding and Design, but I occasionally vibe code here.
+
 - 📫 How to reach me: soniaabhyankarofficial@gmail.com
