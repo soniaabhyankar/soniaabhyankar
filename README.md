@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I pivoted my career to Branding and Design, but I occasionally vibe code here.
+I pivoted to Branding and Design (soniaabhyankar.com), but I occasionally vibe code here.
 
-- 📫 How to reach me: soniaabhyankarofficial@gmail.com
+📫 How to reach me: soniaabhyankarofficial@gmail.com
